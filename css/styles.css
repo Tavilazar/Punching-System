@@ -1,0 +1,70 @@
+h1{
+padding-bottom: 100px;
+
+}
+
+table, th, td {
+
+border-collapse: collapse;
+border-style:solid;
+padding: 20px;
+width: 70%;
+align-self: center;
+margin-right: : 20px;
+
+}
+
+th{
+
+background-color: #c2c8d6
+
+}
+
+#day_date{
+
+width: 80px;
+text-align: center;
+
+}
+
+.header_table{
+
+text-align: right;
+margin-left: 400px;
+border-collapse: separate;
+border-style: none;
+
+}
+
+.bosch_image{
+
+border-style: none;
+padding-right: 0px;
+margin-right: 0;
+
+
+}
+
+.title{
+
+border-style: none;
+
+}
+
+.footer{
+
+padding-top: 100px
+
+}
+
+.problem_description{
+
+padding-top: 100px
+
+}
+
+.name_area{
+
+margin-bottom: 50px;
+
+}
